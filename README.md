@@ -135,4 +135,3 @@ git add .
 git commit -m "Initial commit: AI Task Manager"
 ```
 
-Загрузите репозиторий на GitHub и приложите README + отчёт со скриншотами.
